@@ -1,5 +1,7 @@
 # Catch all middleware bug example
 
+Next.JS issue: https://github.com/vercel/next.js/issues/32561
+
 Branch with bugged behavior: `added_catch_all_middleware`. On `main` everything works fine
 
 ## how to reproduce
